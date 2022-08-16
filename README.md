@@ -65,10 +65,24 @@ Frameworks
 - [Socket.io](https://socket.io/)
 - [Strapi](https://strapi.io/)
 
-## Other
+## Frontend Frameworks
+
+- [React](https://reactjs.org/)
 Rails
-React
+
 
 Angular
 Django
 Vue
+
+## Mobile
+
+| **Framework**                                              | **iOS**           | **Android** |
+|------------------------------------------------------------|*-----------------*|*-----------*|
+| [JQuery Mobile](https://jquerymobile.com/)                 |         ✔         |      ✔      |
+| [Framework7](FFhttps://framework7.io/)                     |         ✔         |      ✔      |
+| [Flutter](https://flutter.dev/)                            |         ✔         |      ✔      |
+| [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) |         ✔         |      ✔      |
+| [Meteor](https://www.meteor.com/)                          |                   |             |
+|                                                            |                   |             |
+| Native Development                                         | Objective-C Swift | Java Kotlin |
