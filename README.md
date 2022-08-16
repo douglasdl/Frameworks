@@ -68,7 +68,7 @@ Frameworks
 ## Frontend Frameworks
 
 - [React](https://reactjs.org/)
-Rails
+- Rails
 
 
 Angular
