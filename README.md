@@ -68,12 +68,10 @@ Frameworks
 ## Frontend Frameworks
 
 - [React](https://reactjs.org/)
-- Rails
-
-
-Angular
-Django
-Vue
+- [Vue](https://vuejs.org/)
+- [Rails](https://rubyonrails.org/)
+- [Angular](https://angular.io/)
+- [Django](https://www.djangoproject.com/)
 
 ## Mobile
 
