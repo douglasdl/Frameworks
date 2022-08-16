@@ -43,6 +43,9 @@ Frameworks
 - [Tornado](https://www.tornadoweb.org/en/stable/)
 - [BlueBream](https://pypi.org/project/bluebream/)
 - [Quixote](http://quixote.ca/)
+- [Masonite](https://github.com/MasoniteFramework/masonite)
+- [Cubic Web](https://www.cubicweb.org/)
+- [Dash](https://plotly.com/dash/)
 
 ## [Node](https://nodejs.org/en/)
 
