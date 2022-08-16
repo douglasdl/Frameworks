@@ -72,6 +72,7 @@ Frameworks
 - [Rails](https://rubyonrails.org/)
 - [Angular](https://angular.io/)
 - [Django](https://www.djangoproject.com/)
+- [Ember.js](https://emberjs.com/)
 
 ## Mobile
 
