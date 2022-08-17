@@ -76,6 +76,18 @@ Frameworks
 - [Angular](https://angular.io/)
 - [Django](https://www.djangoproject.com/)
 - [Ember.js](https://emberjs.com/)
+- [Svelte](https://svelte.dev/)
+- [Preact](https://preactjs.com/)
+- [Foundation](https://get.foundation/)
+- [jQuery](https://jquery.com/)
+- [LitElement](https://lit.dev/)
+- [Stimulus](https://stimulus.hotwired.dev/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Solid](https://www.solidjs.com/)
+- [Inferno.js](https://www.infernojs.org/)
+- [Backbone.js](https://backbonejs.org/)
+- [Semantic-UI](https://semantic-ui.com/)
+- [Laravel](https://laravel.com/)
 
 ## Mobile
 
